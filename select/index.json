@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "GYB!!",
+  "base_artist": "HY:RAIN：黒金蓮（CV.芹澤優）、唐林青葉（CV.高瀬くるみ）、唐林絃葉（CV.久保田未夢）、氷海菜花（CV.高柳知葉）、苗川柔（CV.香里有佐）",
+  "createdAt": "2025-12-01T00:31:01.166352Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GYB",
+      "artist": "Laughing Cats",
+      "has_synced": true,
+      "path": "select/01_GYB_Laughing_Cats.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "GYB!!",
+      "artist": "HY:RAIN：黒金蓮（CV.芹澤優）、唐林青葉（CV.高瀬くるみ）、唐林絃葉（CV.久保田未夢）、氷海菜花（CV.高柳知葉）、苗川柔（CV.香里有佐）",
+      "has_synced": false,
+      "path": "select/pl_GYB!!_HY_RAIN_黒金蓮(CV.芹澤優)、唐林青葉(CV.高瀬くるみ)、唐林絃葉(CV.久保田未夢)、氷海菜花(CV.高柳知葉)、苗川柔(CV.香里有佐).txt"
+    }
+  ]
+}
